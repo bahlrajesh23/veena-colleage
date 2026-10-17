@@ -1,0 +1,2 @@
+Build React: npm install && npm run build
+Upload contents of dist/ to public_html/. Upload api/ to public_html/api/. Import database/schema.sql using phpMyAdmin. Copy api/config.example.php to api/config.php and fill database credentials. Visit /api/setup-admin.php once to create admin, then DELETE setup-admin.php. Enable HTTPS. Full instructions are in README.md.
