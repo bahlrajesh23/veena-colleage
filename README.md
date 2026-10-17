@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Veena College Website — React + PHP/MySQL
 
 A modular college website starter with a React/Vite public site and a PHP/MySQL admin panel. Intended for deployment on Hostinger shared hosting with PHP and MySQL support.
@@ -154,3 +155,7 @@ Before launch:
 ## Design references
 
 The information architecture takes inspiration from the common college-site patterns visible in Jai Hind College and Mithibai College: clear admission/examination notices, programme information, circulars, news and important links. The visual design and code here are newly written and do not copy their source code or branding.
+=======
+# veena-colleage
+Repository created at user's request: Veena Colleage (veena-colleage).
+>>>>>>> 60f659823226a0a84763ad6f5835ff569741b4e3
